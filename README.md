@@ -1,4 +1,4 @@
 # Firstprogram
 This is my first repoditry
 <br>
-Author - Maha Baloch
+Author - Maha Baloch(Apna colleg)
